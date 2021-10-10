@@ -12,10 +12,10 @@ and lots of texture.
 
 Examples of good objects:
 
-> ![Artichoke](artichoke.webp)
-> ![Hydrant](hydrant.webp)
-> ![Drill](drill.webp)
-> ![Shoe](shoe1.jpeg)
+> ![Artichoke](img/artichoke.webp)
+> ![Hydrant](img/hydrant.webp)
+> ![Drill](img/drill.webp)
+> ![Shoe](img/shoe1.jpeg)
 
 Try to avoid objects that are too smooth, like spherical 
 or cylindrical objects, as well as objects that are
@@ -30,9 +30,9 @@ cannot actually hold perfectly still.
 
 Examples of bad objects:
 
-> ![Bust](bust.webp)
-> ![Lombardi](lombardi.jpg)
-> ![Bottle](bottle.jpeg)
+> ![Bust](img/bust.webp)
+> ![Lombardi](img/lombardi.jpg)
+> ![Bottle](img/bottle.jpeg)
 
 ## Capture Setup
 
@@ -43,7 +43,7 @@ be capturing the object by walking around it. To get the best
 result, choose a spot that has a complex, stationary 
 backdrop for your capture.
 
-> Just like with picking our object, giving the background
+> Just like with picking your object, giving the backdrop
 > more edges and texture gives the program more information.
 > 
 > Good backdrops would be something like a backyard or a
@@ -68,26 +68,47 @@ casting shadows, especially harsh ones or ones that move,
 on your object. Try to use diffused light on your object
 rather than intense, focused light.
 
-- avoid bright spots behind your object from things like
+> Tips:
+> - avoid bright spots behind your object from things like
 lights, uncovered windows, or bright sky
-- don't use your camera's flash, it will cast moving shadows
+> - don't use your camera's flash, it will cast moving shadows
 on your object
-- if you choose to light your object with external lights, 
+> - if you choose to light your object with external lights, 
 make sure they are stationary and your object is still lit 
 evenly on all sides; this will require multiple lights
-- a subtly overcast day outdoors provides ideal lighting 
+> - a subtly overcast day outdoors provides ideal lighting 
 conditions
+> <br/>
+> <br/>
 
 ### Positioning
+You want the item isolated and clear of things immediately
+around it. And remember, you want to be able to walk all the 
+way around it and see every part of the object.
 
+Ideally, you'd put the item on some kind of post or stand. 
+The post should be small and simple. If your object can't be 
+positioned like that, try to put it on a small, flat table or
+pedestal.
+
+![Spikey post](img/spikyPost.webp)
+
+![Shoe post](img/shoe2.jpeg)
+
+## Shooting
+
+![Walking example](https://imgur.com/XmsDVq4)
+![Shot example](https://imgur.com/fhRBw89)
 
 
 [Example video (from 0:16-0:37)](https://youtu.be/i8AdX6OCvHg?t=16)
 
 [Example video 2 (from 5:04-5:32)](https://youtu.be/k4NTf0hMjtY?t=304)
 
-References[^1][^2][^3]
+References[^a][^b] [^2][^3]
 
-[^1]: https://www.instructables.com/Shooting-for-Photogrammetry/
+[^a]: https://www.instructables.com/Shooting-for-Photogrammetry/
+[^b]: https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/
+
 [^2]: https://www.youtube.com/watch?v=i8AdX6OCvHg
 [^3]: https://www.youtube.com/watch?v=k4NTf0hMjtY

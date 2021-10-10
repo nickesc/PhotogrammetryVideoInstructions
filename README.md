@@ -3,7 +3,7 @@
 
 ![Shot example](img/stumpVid.gif)[^3]
 
-### [Download Sample Scan](https://github.com/nickesc/PhotogrammetryVideoInstructions/raw/main/vid/sample.mp4)
+### [Sample Scan](https://player.vimeo.com/video/628471220?h=8254701244)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -160,7 +160,7 @@ to ensure everything has been captured.
 
 Watch the sample scan to get an idea of what your video should look like.
 
-### [Download Sample Scan](https://github.com/nickesc/PhotogrammetryVideoInstructions/raw/main/vid/sample.mp4)
+### [Sample Scan](https://player.vimeo.com/video/628471220?h=8254701244)
 
 References[^a][^b] 
 

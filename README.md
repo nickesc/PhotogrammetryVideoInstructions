@@ -5,10 +5,10 @@
 The object should ideally be something with lots of edges 
 and lots of texture.
 
-> The program works by triangulating the points from the 
-> different angles in each frame of the video. The more 
-> texture and edges the object has, the more information
-> the program gets to work with.
+> The photogrammetry software works by triangulating the 
+> points from the different angles in each frame of the 
+> video. The more texture and edges the object has, the 
+> more information the software gets to work with.
 
 Examples of good objects:
 
@@ -44,7 +44,7 @@ result, choose a spot that has a complex, stationary
 backdrop for your capture.
 
 > Just like with picking your object, giving the backdrop
-> more edges and texture gives the program more information.
+> more edges and texture gives the software more information.
 > 
 > Good backdrops would be something like a backyard or a
 > room with a lot of furniture. Just make sure there's a
@@ -91,14 +91,13 @@ The post should be small and simple. If your object can't be
 positioned like that, try to put it on a small, flat table or
 pedestal.
 
-![Spikey post](img/spikyPost.webp)
-
-![Shoe post](img/shoe2.jpeg)
+>![Spikey post](img/spikyPost.webp)
+>![Shoe post](img/shoe2.jpeg)
 
 ## Shooting
 
-![Walking example](https://imgur.com/XmsDVq4)
-![Shot example](https://imgur.com/fhRBw89)
+![Walking example](img/walking.gif)
+![Shot example](img/view.gif)
 
 
 [Example video (from 0:16-0:37)](https://youtu.be/i8AdX6OCvHg?t=16)

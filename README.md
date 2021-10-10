@@ -91,14 +91,45 @@ The post should be small and simple. If your object can't be
 positioned like that, try to put it on a small, flat table or
 pedestal.
 
->![Spikey post](img/spikyPost.png)
->![Shoe post](img/shoe2.jpeg)
+> ![Spikey post](img/spikyPost.png)
+> ![Shoe post](img/shoe2.jpeg)
+> ![Podium](img/podium.jpeg)
 
-## Shooting
+## Capturing
+
+The exciting bit! Now that your object is ready, you can
+finally start capturing it. Almost -- just make sure your
+phone is set to capture video at the highest quality.
+
+> On iOS devices, this is found in the `Settings app > 
+> Camera > Record Video`
+> 
+> If it's available, set the first option to `4K at 60 fps`
+> 
+> If you know how, set the exposure and white balance of your
+> camera to manual. Otherwise, you're ready to start shooting.
+
+The idea here is to walk around your object, taking a *single* 
+video to get coverage of the entire thing. 
 
 ![Walking example](img/walking.gif)
-![Shot example](img/view.gif)
 
+> You want to walk 360º around the object, taking passes at 
+> different heights and angles (emphasis on *and*) like in
+> *fig 1.1* and *fig 1.2*
+> 
+> In the end, you should have shots in the video forming 
+> something like the sphere shape in *fig 1.3*
+> 
+> ![fig 1.1 and fig 1.2](img/cameraExample1.jpg)
+> ###### *fig 1.1 (left)* and *1.2 (right)*[^alpha]
+
+> ![fig 1.3](img/cameraExample2.jpg)
+> ###### *fig 1.3*[^beta]
+
+
+
+![Shot example](img/view.gif)
 
 [Example video (from 0:16-0:37)](https://youtu.be/i8AdX6OCvHg?t=16)
 
@@ -111,3 +142,6 @@ References[^a][^b] [^2][^3]
 
 [^2]: https://www.youtube.com/watch?v=i8AdX6OCvHg
 [^3]: https://www.youtube.com/watch?v=k4NTf0hMjtY
+
+[^alpha]: https://www.3dscanstore.com/blog/3d-scanning-reflective-objects
+[^beta]: https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/

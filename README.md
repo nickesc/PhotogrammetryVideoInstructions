@@ -1,6 +1,8 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By N. Escobar
 
+![Shot example](img/stumpVid.gif)[^3]
+
 ## Picking an Object
 The object should ideally be something with lots of edges 
 and lots of texture.
@@ -68,7 +70,7 @@ casting shadows, especially harsh ones or ones that move,
 on your object. Try to use diffused light on your object
 rather than intense, focused light.
 
-> Tips:
+> #### Tips:
 > - avoid bright spots behind your object from things like
 lights, uncovered windows, or bright sky
 > - don't use your camera's flash, it will cast moving shadows
@@ -102,17 +104,19 @@ finally start capturing it. Almost -- just make sure your
 phone is set to capture video at the highest quality.
 
 > On iOS devices, this is found in the `Settings app > 
-> Camera > Record Video`
-> 
+> Camera > Record Video`\
 > If it's available, set the first option to `4K at 60 fps`
 > 
-> If you know how, set the exposure and white balance of your
-> camera to manual. Otherwise, you're ready to start shooting.
+> If you know how, set the exposure and white balance on your
+> camera to manual, set them and leave them. Otherwise, you're 
+> ready to start shooting.
 
 The idea here is to walk around your object, taking a *single* 
-video to get coverage of the entire thing. 
+video to get coverage of the entire thing. You can use either
+portrait or landscape modes, whichever helps frame your object
+better.
 
-![Walking example](img/walking.gif)
+![Walking example](img/walking.gif)[^2]
 
 > You want to walk 360º around the object, taking passes at 
 > different heights and angles (emphasis on *and*) like in
@@ -123,19 +127,33 @@ video to get coverage of the entire thing.
 > 
 > ![fig 1.1 and fig 1.2](img/cameraExample1.jpg)
 > ###### *fig 1.1 (left)* and *1.2 (right)*[^alpha]
-
+>
+> <br/>
+>
 > ![fig 1.3](img/cameraExample2.jpg)
 > ###### *fig 1.3*[^beta]
 
+After you do the passes around, make sure you get above and below the 
+object to capture the top and bottom, and around any corners or folds
+to ensure everything has been captured.
 
+![Example video](img/view.gif)[^2]
 
-![Shot example](img/view.gif)
+> #### Tips
+> - keep the camera at a consistent distance as you make your passes.
+>   - your object should fill most of the frame, but you should still 
+      capture some background and  try to make sure the entire object 
+      is in frame
+> - keep the camera steady and smooth, don't make any sudden moves or
+>   point the camera away from the object
+- 
+
 
 [Example video (from 0:16-0:37)](https://youtu.be/i8AdX6OCvHg?t=16)
 
 [Example video 2 (from 5:04-5:32)](https://youtu.be/k4NTf0hMjtY?t=304)
 
-References[^a][^b] [^2][^3]
+References[^a][^b] 
 
 [^a]: https://www.instructables.com/Shooting-for-Photogrammetry/
 [^b]: https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/

@@ -3,6 +3,8 @@
 
 ![Shot example](img/stumpVid.gif)[^3]
 
+### [Sample Scan](vid/sample.mp4)
+
 ## Picking an Object
 The object should ideally be something with lots of edges 
 and lots of texture.
@@ -150,12 +152,15 @@ to ensure everything has been captured.
       is in frame
 > - keep the camera steady and smooth, don't make any sudden moves or
 >   point the camera away from the object
-> - videos should be *maximum* 30 seconds -- each frame has a lot of 
+> - videos should only be about **one minute** -- each frame has a lot of 
     information
 > - you should take a few different videos where you walk in different 
     patterns to give the software the best chance to get a complete
     scan
 
+Watch the sample scan to get an idea of what your video should look like.
+
+### [Sample Scan](vid/sample.mp4)
 
 References[^a][^b] 
 

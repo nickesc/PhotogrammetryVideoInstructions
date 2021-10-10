@@ -1,5 +1,5 @@
 # Instructions for Photogrammetry Video Capture
-######By N. Escobar
+###### By N. Escobar
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -12,10 +12,10 @@ and lots of texture.
 
 Examples of good objects:
 
-![Artichoke](artichoke.webp)
-![Hydrant](hydrant.webp)
-![Drill](drill.webp)
-![Shoe](shoe1.jpeg)
+> ![Artichoke](artichoke.webp)
+> ![Hydrant](hydrant.webp)
+> ![Drill](drill.webp)
+> ![Shoe](shoe1.jpeg)
 
 Try to avoid objects that are too smooth, like spherical 
 or cylindrical objects, as well as objects that are

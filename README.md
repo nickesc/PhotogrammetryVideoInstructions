@@ -12,9 +12,9 @@ and lots of texture.
 
 Examples of good objects:
 
-> ![Artichoke](img/artichoke.webp)
-> ![Hydrant](img/hydrant.webp)
-> ![Drill](img/drill.webp)
+> ![Artichoke](img/artichoke.png)
+> ![Hydrant](img/hydrant.png)
+> ![Drill](img/drill.png)
 > ![Shoe](img/shoe1.jpeg)
 
 Try to avoid objects that are too smooth, like spherical 
@@ -30,7 +30,7 @@ cannot actually hold perfectly still.
 
 Examples of bad objects:
 
-> ![Bust](img/bust.webp)
+> ![Bust](img/bust.png)
 > ![Lombardi](img/lombardi.jpg)
 > ![Bottle](img/bottle.jpeg)
 
@@ -91,7 +91,7 @@ The post should be small and simple. If your object can't be
 positioned like that, try to put it on a small, flat table or
 pedestal.
 
->![Spikey post](img/spikyPost.webp)
+>![Spikey post](img/spikyPost.png)
 >![Shoe post](img/shoe2.jpeg)
 
 ## Shooting

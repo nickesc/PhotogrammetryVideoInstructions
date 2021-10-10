@@ -9,11 +9,11 @@ and lots of texture.
 
 > The photogrammetry software works by triangulating the 
 > points from the different angles in each frame of the 
-> video. The more texture and edges the object has, the 
-> more information the software gets to work with.
+> video. The more texture, edges and patterns the object 
+> has, the more information the software gets to work with.
 
-Examples of good objects:
-
+> #### Some good objects:
+> 
 > ![Artichoke](img/artichoke.png)
 > ![Hydrant](img/hydrant.png)
 > ![Drill](img/drill.png)
@@ -30,8 +30,9 @@ cannot actually hold perfectly still.
 > or shiny parts as long as the object as a whole isn't 
 > *too* bad.
 
-Examples of bad objects:
 
+> #### Some bad objects:
+> 
 > ![Bust](img/bust.png)
 > ![Lombardi](img/lombardi.jpg)
 > ![Bottle](img/bottle.jpeg)
@@ -46,7 +47,8 @@ result, choose a spot that has a complex, stationary
 backdrop for your capture.
 
 > Just like with picking your object, giving the backdrop
-> more edges and texture gives the software more information.
+> more edges, texture and patterns gives the software more 
+> information.
 > 
 > Good backdrops would be something like a backyard or a
 > room with a lot of furniture. Just make sure there's a
@@ -146,20 +148,19 @@ to ensure everything has been captured.
       is in frame
 > - keep the camera steady and smooth, don't make any sudden moves or
 >   point the camera away from the object
-- 
+> - videos should be *maximum* 30 seconds -- each frame has a lot of 
+    information
+> - you should take a few different videos where you walk in different 
+    patterns to give the software the best chance to 
 
-
-[Example video (from 0:16-0:37)](https://youtu.be/i8AdX6OCvHg?t=16)
-
-[Example video 2 (from 5:04-5:32)](https://youtu.be/k4NTf0hMjtY?t=304)
 
 References[^a][^b] 
 
-[^a]: https://www.instructables.com/Shooting-for-Photogrammetry/
-[^b]: https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/
+[^a]: [Shooting for Photogrammetry](https://www.instructables.com/Shooting-for-Photogrammetry/)
+[^b]: [3D scan with a phone: Our best tips](https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/)
 
-[^2]: https://www.youtube.com/watch?v=i8AdX6OCvHg
-[^3]: https://www.youtube.com/watch?v=k4NTf0hMjtY
+[^2]: [3D Scanning from video with Reality Capture](https://www.youtube.com/watch?v=i8AdX6OCvHg)
+[^3]: [How to 3D Photoscan Easy and Free!](https://www.youtube.com/watch?v=k4NTf0hMjtY)
 
-[^alpha]: https://www.3dscanstore.com/blog/3d-scanning-reflective-objects
-[^beta]: https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/
+[^alpha]: [figure 1.1 and 1.2 source](https://www.3dscanstore.com/blog/3d-scanning-reflective-objects)
+[^beta]: [figure 1.3 source](https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/)

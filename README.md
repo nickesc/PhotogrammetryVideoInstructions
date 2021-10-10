@@ -58,9 +58,8 @@ backdrop for your capture.
 > Bad backdrops would be rooms with lots of clear space and
 > little furniture, or lots of flat, especially white, surfaces. 
 > Also avoid someplace busy that people would walk through or 
-> that would change while taking the capture. An empty room 
-> with white walls and a dog wandering around would be a bad 
-> choice.
+> that would change while capturing. An empty room with white 
+> walls and a dog wandering around would be a bad choice.
 
 ### Lighting
 
@@ -79,7 +78,8 @@ lights, uncovered windows, or bright sky
 on your object
 > - if you choose to light your object with external lights, 
 make sure they are stationary and your object is still lit 
-evenly on all sides; this will require multiple lights
+evenly on all sides; this will likely  require multiple lights,
+especially without a way to diffuse it
 > - a subtly overcast day outdoors provides ideal lighting 
 conditions
 > <br/>
@@ -95,6 +95,8 @@ The post should be small and simple. If your object can't be
 positioned like that, try to put it on a small, flat table or
 pedestal.
 
+> #### Positioning Examples:
+> 
 > ![Spikey post](img/spikyPost.png)
 > ![Shoe post](img/shoe2.jpeg)
 > ![Podium](img/podium.jpeg)
@@ -122,18 +124,18 @@ better.
 
 > You want to walk 360º around the object, taking passes at 
 > different heights and angles (emphasis on *and*) like in
-> *fig 1.1* and *fig 1.2*
+> `fig 1.1` and `fig 1.2`.
 > 
 > In the end, you should have shots in the video forming 
-> something like the sphere shape in *fig 1.3*
+> something like the sphere shape in `fig 1.3`.
 > 
 > ![fig 1.1 and fig 1.2](img/cameraExample1.jpg)
-> ###### *fig 1.1 (left)* and *1.2 (right)*[^alpha]
+> ###### `fig 1.1` *(left)* and `fig 1.2` *(right)*[^alpha]
 >
 > <br/>
 >
 > ![fig 1.3](img/cameraExample2.jpg)
-> ###### *fig 1.3*[^beta]
+> ###### `fig 1.3`[^beta]
 
 After you do the passes around, make sure you get above and below the 
 object to capture the top and bottom, and around any corners or folds
@@ -142,7 +144,7 @@ to ensure everything has been captured.
 ![Example video](img/view.gif)[^2]
 
 > #### Tips
-> - keep the camera at a consistent distance as you make your passes.
+> - keep the camera at a consistent distance as you make your passes
 >   - your object should fill most of the frame, but you should still 
       capture some background and  try to make sure the entire object 
       is in frame
@@ -151,7 +153,8 @@ to ensure everything has been captured.
 > - videos should be *maximum* 30 seconds -- each frame has a lot of 
     information
 > - you should take a few different videos where you walk in different 
-    patterns to give the software the best chance to 
+    patterns to give the software the best chance to get a complete
+    scan
 
 
 References[^a][^b] 
@@ -162,5 +165,5 @@ References[^a][^b]
 [^2]: [3D Scanning from video with Reality Capture](https://www.youtube.com/watch?v=i8AdX6OCvHg)
 [^3]: [How to 3D Photoscan Easy and Free!](https://www.youtube.com/watch?v=k4NTf0hMjtY)
 
-[^alpha]: [figure 1.1 and 1.2 source](https://www.3dscanstore.com/blog/3d-scanning-reflective-objects)
-[^beta]: [figure 1.3 source](https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/)
+[^alpha]: [`fig 1.1` and `fig 1.2` source](https://www.3dscanstore.com/blog/3d-scanning-reflective-objects)
+[^beta]: [`fig 1.3` source](https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/)

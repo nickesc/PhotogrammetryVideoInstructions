@@ -1,9 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By N. Escobar
 
-![Shot example](img/stumpVid.gif)[^3]
-
-### [Sample Scan](https://player.vimeo.com/video/628471220?h=8254701244)
+![Sample Render](img/sampleRender.gif)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -120,9 +118,10 @@ phone is set to capture video at the highest quality.
 The idea here is to walk around your object, taking a *single* 
 video to get coverage of the entire thing. You can use either
 portrait or landscape modes, whichever helps frame your object
-better.
+better. Make sure the object is centered and focused for the
+entire video.
 
-![Walking example](img/walking.gif)[^2]
+![Walking example](img/walking.gif)[^1]
 
 > You want to walk 360º around the object, taking passes at 
 > different heights and angles (emphasis on *and*) like in
@@ -139,11 +138,21 @@ better.
 > ![fig 1.3](img/cameraExample2.jpg)
 > ###### `fig 1.3`[^beta]
 
+![Shot example](img/stumpVid.gif)[^2]
+
 After you do the passes around, make sure you get above and below the 
 object to capture the top and bottom, and around any corners or folds
-to ensure everything has been captured.
+to ensure everything has been captured and to get more granular detail.
 
-![Example video](img/view.gif)[^2]
+> You should gradually bring the camera closer to the object, getting
+> clearer shots of details and things that the camera missed in other 
+> passes. Just don't get too close too fast, or it will confuse the 
+> software.
+
+![Detail example](img/view.gif)[^1]
+
+![Detail sample](img/detailSample.gif)
+
 
 > #### Tips
 > - keep the camera at a consistent distance as you make your passes
@@ -158,17 +167,33 @@ to ensure everything has been captured.
     patterns to give the software the best chance to get a complete
     scan
 
-Watch the sample scan to get an idea of what your video should look like.
+## Samples
 
-### [Sample Scan](https://player.vimeo.com/video/628471220?h=8254701244)
+Watch this sample scan to get an idea of what your video should look like:
 
-References[^a][^b] 
+> [**Sample Scan**](https://player.vimeo.com/video/628471220?h=8254701244) (also at [`sample/sampleVideo.mp4`](sample/sampleVideo.mp4))
+
+And to get an idea of what the final product will look like after processing,
+you can watch this short render from that sample scan
+
+> [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](sample/sampleRender.mov))
+>![Sample Render](img/sampleRender.gif)
+
+In the [`sample/`](/sample) directory, you'll also find [`samplePointCloud.ply`](sample/samplePointCloud.ply), which 
+holds the point cloud made from the video by the photogrammetry software.
+This can be viewed with a `*.ply` viewer, and you can explore the point
+cloud if you cannot make one yourself.
+
+References[^a][^b][^c][^d]
 
 [^a]: [Shooting for Photogrammetry](https://www.instructables.com/Shooting-for-Photogrammetry/)
 [^b]: [3D scan with a phone: Our best tips](https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/)
+[^c]: [Getting Started with Photogrammetry: Part 2 — Interior Scanning](https://medium.com/realities-io/getting-started-with-photogrammetry-part-2-f957c9e8d61d)
+[^d]: [Getting started with Photogrammetry — with a Smartphone camera \[2019\]](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
 
-[^2]: [3D Scanning from video with Reality Capture](https://www.youtube.com/watch?v=i8AdX6OCvHg)
-[^3]: [How to 3D Photoscan Easy and Free!](https://www.youtube.com/watch?v=k4NTf0hMjtY)
+[^1]: [3D Scanning from video with Reality Capture](https://www.youtube.com/watch?v=i8AdX6OCvHg)
+[^2]: [How to 3D Photoscan Easy and Free!](https://www.youtube.com/watch?v=k4NTf0hMjtY)
 
 [^alpha]: [`fig 1.1` and `fig 1.2` source](https://www.3dscanstore.com/blog/3d-scanning-reflective-objects)
 [^beta]: [`fig 1.3` source](https://www.vistable.com/photogrammetry-or-photo-modeling-for-the-digital-factory-model/)
+

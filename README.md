@@ -1,7 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By N. Escobar
 
-[comment]: <> (![Sample Render]&#40;img/sampleRender.gif&#41;)
+![Sample Render](img/sampleRender.gif)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -178,8 +178,7 @@ And to get an idea of what the final product will look like after processing,
 you can watch this short render from that sample scan
 
 > [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleRender.mov))
-
-[comment]: <> (>![Sample Render]&#40;img/sampleRender.gif&#41;)
+> ![Sample Render](img/sampleRender.gif)
 
 In the [`sample/`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample) 
 directory, you'll also find [`samplePointCloud.ply`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/samplePointCloud.ply),

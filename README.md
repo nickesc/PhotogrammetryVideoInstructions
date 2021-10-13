@@ -1,7 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By N. Escobar
 
-![Sample Render](img/sampleRender.gif)
+[comment]: <> (![Sample Render]&#40;img/sampleRender.gif&#41;)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -55,10 +55,11 @@ backdrop for your capture.
 > around.
 > 
 > Bad backdrops would be rooms with lots of clear space and
-> little furniture, or lots of flat, especially white, surfaces. 
-> Also avoid someplace busy that people would walk through or 
-> that would change while capturing. An empty room with white 
-> walls and a dog wandering around would be a bad choice.
+> little furniture, or lots of flat, especially white, surfaces.
+> In the same vein, try to avoid rooms with white walls. Also, 
+> avoid someplace busy that people would walk through or that 
+> would change while capturing. An empty room with white walls 
+> and a dog wandering around would be a very bad choice.
 
 ### Lighting
 
@@ -145,8 +146,8 @@ to ensure everything has been captured and to get more granular detail.
 
 > You should gradually bring the camera closer to the object, getting
 > clearer shots of details and things that the camera missed in other 
-> passes. Just don't get too close too fast, or it will confuse the 
-> software.
+> passes. Just don't get too close too fast or the software won't be 
+> able to connect the closer shots to the farther ones.
 
 ![Detail example](img/view.gif)[^1]
 
@@ -177,7 +178,8 @@ And to get an idea of what the final product will look like after processing,
 you can watch this short render from that sample scan
 
 > [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleRender.mov))
->![Sample Render](img/sampleRender.gif)
+
+[comment]: <> (>![Sample Render]&#40;img/sampleRender.gif&#41;)
 
 In the [`sample/`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample) 
 directory, you'll also find [`samplePointCloud.ply`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/samplePointCloud.ply),

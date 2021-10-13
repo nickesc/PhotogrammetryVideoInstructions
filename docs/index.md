@@ -1,7 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By N. Escobar
 
-![Sample Render](img/sampleRender.gif)
+![Sample Render](../img/sampleRender.gif)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -14,10 +14,10 @@ and lots of texture.
 >
 > #### Some good objects:
 > 
-> ![Artichoke](img/artichoke.png)
-> ![Hydrant](img/hydrant.png)
-> ![Drill](img/drill.png)
-> ![Shoe](img/shoe1.jpeg)
+> ![Artichoke](../img/artichoke.png)
+> ![Hydrant](../img/hydrant.png)
+> ![Drill](../img/drill.png)
+> ![Shoe](../img/shoe1.jpeg)
 
 Try to avoid objects that are too smooth, like spherical 
 or cylindrical objects, as well as objects that are
@@ -32,9 +32,9 @@ cannot actually hold perfectly still.
 >
 > #### Some bad objects:
 > 
-> ![Bust](img/bust.png)
-> ![Lombardi](img/lombardi.jpg)
-> ![Bottle](img/bottle.jpeg)
+> ![Bust](../img/bust.png)
+> ![Lombardi](../img/lombardi.jpg)
+> ![Bottle](../img/bottle.jpeg)
 
 ## Capture Setup
 
@@ -96,9 +96,9 @@ pedestal.
 
 > #### Positioning Examples:
 > 
-> ![Spikey post](img/spikyPost.png)
-> ![Shoe post](img/shoe2.jpeg)
-> ![Podium](img/podium.jpeg)
+> ![Spikey post](../img/spikyPost.png)
+> ![Shoe post](../img/shoe2.jpeg)
+> ![Podium](../img/podium.jpeg)
 
 ## Capturing
 
@@ -120,7 +120,7 @@ portrait or landscape modes, whichever helps frame your object
 better. Make sure the object is centered and focused for the
 entire video.
 
-![Walking example](img/walking.gif)[^1]
+![Walking example](../img/walking.gif)[^1]
 
 > You want to walk 360º around the object, taking passes at 
 > different heights and angles (emphasis on *and*) like in
@@ -129,15 +129,15 @@ entire video.
 > In the end, you should have shots in the video forming 
 > something like the sphere shape in `fig 1.3`.
 > 
-> ![fig 1.1 and fig 1.2](img/cameraExample1.jpg)
+> ![fig 1.1 and fig 1.2](../img/cameraExample1.jpg)
 > ###### `fig 1.1` *(left)* and `fig 1.2` *(right)*[^alpha]
 >
 > <br/>
 >
-> ![fig 1.3](img/cameraExample2.jpg)
+> ![fig 1.3](../img/cameraExample2.jpg)
 > ###### `fig 1.3`[^beta]
 
-![Shot example](img/stumpVid.gif)[^2]
+![Shot example](../img/stumpVid.gif)[^2]
 
 After you do the passes around, make sure you get above and below the 
 object to capture the top and bottom, and around any corners or folds
@@ -148,9 +148,9 @@ to ensure everything has been captured and to get more granular detail.
 > passes. Just don't get too close too fast, or it will confuse the 
 > software.
 
-![Detail example](img/view.gif)[^1]
+![Detail example](../img/view.gif)[^1]
 
-![Detail sample](img/detailSample.gif)
+![Detail sample](../img/detailSample.gif)
 
 
 > #### Tips
@@ -170,18 +170,19 @@ to ensure everything has been captured and to get more granular detail.
 
 Watch this sample scan to get an idea of what your video should look like:
 
-> [**Sample Scan**](https://player.vimeo.com/video/628471220?h=8254701244) (also at [`sample/sampleVideo.mp4`](sample/sampleVideo.mp4))
+> [**Sample Scan**](https://player.vimeo.com/video/628471220?h=8254701244) (also at [`sample/sampleVideo.mp4`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleVideo.mp4))
 
 And to get an idea of what the final product will look like after processing,
 you can watch this short render from that sample scan
 
-> [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](sample/sampleRender.mov))
->![Sample Render](img/sampleRender.gif)
+> [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleRender.mov))
+>![Sample Render](../img/sampleRender.gif)
 
-In the [`sample/`](/sample) directory, you'll also find [`samplePointCloud.ply`](sample/samplePointCloud.ply), which 
-holds the point cloud made from the video by the photogrammetry software.
-This can be viewed with a `*.ply` viewer, and you can explore the point
-cloud if you cannot make one yourself.
+In the [`sample/`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample) 
+directory, you'll also find [`samplePointCloud.ply`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/samplePointCloud.ply),
+which holds the point cloud made from the video by the photogrammetry 
+software. This can be viewed with a `*.ply` viewer, and you can explore 
+the point cloud if you cannot make one yourself.
 
 References[^a][^b][^c][^d]
 

@@ -1,7 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
-###### By [nickesc <img src="img/githubLogo.png" width=12 height =12>](https://github.com/nickesc) / [N. Escobar <img src="img/Logo.png" width=12 height =12>](nickesc.com) 
+###### By [nickesc <img src="img/githubLogo.png" width=12 height =12>](https://github.com/nickesc) / [N. Escobar <img src="img/Logo.png" width=12 height =12>](https://nickesc.com)
 
-###### [Github repository](https://github.com/PhotogrammetryVideoInstructions)
+###### [Github repository](https://github.com/nickesc/PhotogrammetryVideoInstructions)
 
 ![Sample Render](img/sampleRender.gif)
 
@@ -162,12 +162,10 @@ to ensure everything has been captured and to get more granular detail.
       capture some background and  try to make sure the entire object 
       is in frame
 > - keep the camera steady and smooth, don't make any sudden moves or
->   point the camera away from the object
+    point the camera away from the object; try to make sure the video 
+    isn't blurry at all
 > - videos should only be about **one minute** -- each frame has a lot of 
     information
-> - you should take a few different videos where you walk in different 
-    patterns to give the software the best chance to get a complete
-    scan
 
 
 ## Samples
@@ -187,6 +185,9 @@ directory, you'll also find [`samplePointCloud.ply`](https://github.com/nickesc/
 which holds the point cloud made from the video by the photogrammetry 
 software. This can be viewed with a `*.ply` viewer, and you can explore 
 the point cloud if you cannot make one yourself.
+
+## [Download latest project files and extras on Github](https://github.com/nickesc/PhotogrammetryVideoInstructions/releases/)
+<br/>
 
 References[^a][^b][^c][^d]
 

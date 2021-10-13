@@ -3,12 +3,16 @@
 
 ![Sample Render](img/sampleRender.gif)
 
-## Table of Contents
-1. [Picking an Object](## Picking an Object)
-   1. [Some good objects](####  Some good objects:)
-   2. [Some bad objects](#### Some bad objects:)
-2. [Capture Setup](## Capture Setup)
-   1. [Backdrop](### Backdrop)
+## Table of Contents:
+* [Table of Contents](##-Table-Of-Contents)
+1. [Picking an Object](##-Picking-an-Object)
+   * [Some good objects](####-Some-good-objects:)
+   * [Some bad objects](####-Some-bad-objects:)
+2. [Capture Setup](##-Capture-Setup)
+   1. [Backdrop](###-Backdrop)
+   2. [Lighting](###-Lighting)
+      * [Tips](####-Lighting-tips:)
+   3. [Positioning](###-Positioning)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 
@@ -77,7 +81,7 @@ casting shadows, especially harsh ones or ones that move,
 on your object. Try to use diffused light on your object
 rather than intense, focused light.
 
-> #### Tips:
+> #### Lighting tips:
 > - avoid bright spots behind your object from things like
 lights, uncovered windows, or bright sky
 > - don't use your camera's flash, it will cast moving shadows
@@ -160,7 +164,7 @@ to ensure everything has been captured and to get more granular detail.
 ![Detail sample](img/detailSample.gif)
 
 
-> #### Tips
+> #### Capture tips:
 > - keep the camera at a consistent distance as you make your passes
 >   - your object should fill most of the frame, but you should still 
       capture some background and  try to make sure the entire object 

@@ -3,6 +3,13 @@
 
 ![Sample Render](img/sampleRender.gif)
 
+## Table of Contents
+1. [Picking an Object](## Picking an Object)
+   1. [Some good objects](####  Some good objects:)
+   2. [Some bad objects](#### Some bad objects:)
+2. [Capture Setup](## Capture Setup)
+   1. [Backdrop](### Backdrop)
+
 ## Picking an Object
 The object should ideally be something with lots of edges 
 and lots of texture.
@@ -166,22 +173,24 @@ to ensure everything has been captured and to get more granular detail.
     patterns to give the software the best chance to get a complete
     scan
 
+
 ## Samples
 
 Watch this sample scan to get an idea of what your video should look like:
 
-> [**Sample Scan**](https://player.vimeo.com/video/628471220?h=8254701244) (also at [`sample/sampleVideo.mp4`](sample/sampleVideo.mp4))
+> [**Sample Scan**](https://player.vimeo.com/video/628471220?h=8254701244) (also at [`sample/sampleVideo.mp4`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleVideo.mp4))
 
 And to get an idea of what the final product will look like after processing,
 you can watch this short render from that sample scan
 
-> [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](sample/sampleRender.mov))
+> [**Sample Render 4K**](https://player.vimeo.com/video/630037720?h=33217a9381) (also at [`sample/sampleRender.mov`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/sampleRender.mov))
 >![Sample Render](img/sampleRender.gif)
 
-In the [`sample/`](/sample) directory, you'll also find [`samplePointCloud.ply`](sample/samplePointCloud.ply), which 
-holds the point cloud made from the video by the photogrammetry software.
-This can be viewed with a `*.ply` viewer, and you can explore the point
-cloud if you cannot make one yourself.
+In the [`sample/`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample) 
+directory, you'll also find [`samplePointCloud.ply`](https://github.com/nickesc/PhotogrammetryVideoInstructions/blob/main/sample/samplePointCloud.ply),
+which holds the point cloud made from the video by the photogrammetry 
+software. This can be viewed with a `*.ply` viewer, and you can explore 
+the point cloud if you cannot make one yourself.
 
 References[^a][^b][^c][^d]
 

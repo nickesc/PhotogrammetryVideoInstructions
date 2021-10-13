@@ -1,5 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
-###### By [nickesc/N. Escobar](https://github.com/nickesc) <img src="img/githubLogo.png" width=20 height =20>
+###### By [nickesc <img src="img/githubLogo.png" width=12 height =12>](https://github.com/nickesc) / [N. Escobar <img src="img/Logo.png" width=12 height =12>](nickesc.com) 
+
+###### [Github repository](https://github.com/PhotogrammetryVideoInstructions)
 
 ![Sample Render](img/sampleRender.gif)
 

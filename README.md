@@ -4,15 +4,15 @@
 ![Sample Render](img/sampleRender.gif)
 
 ## Table of Contents:
-* [Table of Contents](##-table-of-contents)
-1. [Picking an Object](##-picking-an-object)
-   * [Some good objects](####-some-good-objects)
-   * [Some bad objects](####-some-bad-objects)
-2. [Capture Setup](##-capture-setup)
-   1. [Backdrop](###-backdrop)
-   2. [Lighting](###-lighting)
-      * [Tips](####-lighting-tips)
-   3. [Positioning](###-positioning)
+* [Table of Contents](#-table-of-contents)
+1. [Picking an Object](#-picking-an-object)
+   * [Some good objects](#-some-good-objects)
+   * [Some bad objects](#-some-bad-objects)
+2. [Capture Setup](#-capture-setup)
+   1. [Backdrop](#-backdrop)
+   2. [Lighting](#-lighting)
+      * [Tips](#-lighting-tips)
+   3. [Positioning](#-positioning)
 
 ## Picking an Object
 The object should ideally be something with lots of edges 

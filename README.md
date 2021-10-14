@@ -1,6 +1,8 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By [nickesc <img src="img/githubLogo.png" width=12 height =12>](https://github.com/nickesc) / [N. Escobar <img src="img/Logo.png" width=12 height =12>](https://nickesc.com)
 
+###### A part of the project *In Our Backyard: A Generational Retrospective.*
+
 ###### [Github repository](https://github.com/nickesc/PhotogrammetryVideoInstructions)
 
 ![Sample Render](img/sampleRender.gif)
@@ -193,8 +195,8 @@ References[^a][^b][^c][^d]
 
 [^a]: [Shooting for Photogrammetry](https://www.instructables.com/Shooting-for-Photogrammetry/)
 [^b]: [3D scan with a phone: Our best tips](https://www.sculpteo.com/en/3d-learning-hub/best-articles-about-3d-printing/3d-scan-smartphone/)
-[^c]: [Getting Started with Photogrammetry: Part 2 — Interior Scanning](https://medium.com/realities-io/getting-started-with-photogrammetry-part-2-f957c9e8d61d)
-[^d]: [Getting started with Photogrammetry — with a Smartphone camera \[2019\]](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
+[^c]: [Getting started with Photogrammetry — with a Smartphone camera \[2019\]](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72)
+[^d]: [Getting Started with Photogrammetry: Part 2 — Interior Scanning](https://medium.com/realities-io/getting-started-with-photogrammetry-part-2-f957c9e8d61d)
 
 [^1]: [3D Scanning from video with Reality Capture](https://www.youtube.com/watch?v=i8AdX6OCvHg)
 [^2]: [How to 3D Photoscan Easy and Free!](https://www.youtube.com/watch?v=k4NTf0hMjtY)

@@ -1,7 +1,7 @@
 # Instructions for Photogrammetry Video Capture of a Stationary Object
 ###### By [nickesc <img src="img/githubLogo.png" width=12 height =12>](https://github.com/nickesc) / [N. Escobar <img src="img/Logo.png" width=12 height =12>](https://nickesc.com)
 
-###### A part of the project *In Our Backyard: A Generational Retrospective.*
+###### This is a part of the project *In Our Backyard: A Generational Retrospective.* Find the video portion [here](https://youtu.be/V9Pu-3cldVE). 
 
 ###### [Github repository](https://github.com/nickesc/PhotogrammetryVideoInstructions)
 
